@@ -39,6 +39,7 @@ img {
 }
 
 #story-wrap {
+    min-width: 1500px;
     overflow: hidden;
     background: #090909
 }
